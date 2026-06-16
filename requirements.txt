@@ -1,0 +1,7 @@
+# 测试框架
+pytest>=7.4.0
+hypothesis>=6.82.0
+pytest-cov>=4.1.0
+
+# 注意: Tkinter 是 Python 标准库的一部分，无需单独安装
+# 如果在 Linux 上运行，可能需要安装: sudo apt-get install python3-tk
